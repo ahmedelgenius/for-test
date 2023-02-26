@@ -676,13 +676,14 @@
   }
   .images-container {
     flex-direction: column;
+    margin-left: 11px;
   }
-  .bg-img-four {
-    margin-right: 27px;
+  /* .bg-img-four {
+    margin-right: 40px;
   }
   .bg-img-eight {
-    margin-right: 27px;
-  }
+    margin-right: 40px;
+  } */
   /* .content .bg-img-one {
     width: 100%;
     display: block;
@@ -742,6 +743,10 @@
 
   .roadmap-slider .owl-item:nth-child(2n + 0) .main-box .v-row {
     margin-left: -2px;
+  }
+  .images-container {
+    flex-direction: column;
+    margin-left: 11px;
   }
   /* Roadmap end */
 }
