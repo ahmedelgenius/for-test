@@ -746,7 +746,7 @@
   }
   .images-container {
     flex-direction: column;
-    margin-left: 11px;
+    margin-left: 0px;
   }
   /* Roadmap end */
 }
